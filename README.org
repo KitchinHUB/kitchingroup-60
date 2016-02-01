@@ -17,4 +17,4 @@
 
 The manuscript: [[./manuscript.org]] [[./manuscript.pdf]]
 
-The supporting information: [[./supporting-information.org]]   [[./supporting-information.pdf
+The supporting information: [[./supporting-information.org]]   [[./supporting-information.pdf]]
