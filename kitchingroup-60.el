@@ -1,4 +1,4 @@
-;;; kitchingroup-60.el --- CaPPA preprint for doi:10.1016/j.susc.2015.10.001
+;;; kitchingroup-60.el --- The Role of Vdw Interactions in Coverage Dependent Adsorption Energies of Atomic Adsorbates on Pt(111) and Pd(111)
 
 ;; Copyright (C) 2016 John Kitchin
 
